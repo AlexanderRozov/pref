@@ -5,6 +5,7 @@
 #ifndef PREF_DECL_H
 #define PREF_DECL_H
 
+#include <cstdint>
 #include "StandartFunctionsAndHeaders.h"
 
 class Card
@@ -22,7 +23,9 @@ public:
 };
 class Deck {
 public:
-    uint8_t Capacity;
+     uint8_t Capacity;
+
+
     Deck(uint8_t capacity)
     {
         Capacity = capacity;
