@@ -1,0 +1,10 @@
+//
+// Created by fog54 on 23.04.2024.
+//
+
+#ifndef PREF_STANDARTFUNCTIONSANDHEADERS_H
+#define PREF_STANDARTFUNCTIONSANDHEADERS_H
+#include <vector>
+#include <string>
+
+#endif //PREF_STANDARTFUNCTIONSANDHEADERS_H
