@@ -11,7 +11,7 @@ void Game::ChangeState()
 
 void Game::StartGame()
 {
-
+    card_deck.Init_deck();
 }
 
 void Game::EndGame()
